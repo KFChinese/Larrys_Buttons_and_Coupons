@@ -1,0 +1,25 @@
+{
+  "name": "Gabbys-Gift",
+  "displayName": "Gabbys-Gift",
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "gabbys-gift.expo.googlesignin",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.318108620870-dtg27d6m6ml312b0hcn94oi0mah06ae1"
+        }
+      }
+    },
+    "name": "Gabbys-Gift",
+    "slug": "Gabbys-Gift",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "com.larrychiem.GabbysGift"
+    }
+  }
+}

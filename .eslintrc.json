@@ -1,0 +1,128 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "airbnb"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        "quotes": [
+            "warn",
+            "single"
+          ],
+          "indent": [
+            "warn"
+          ],
+          "eol-last": [
+            "warn"
+          ],
+          "no-dupe-keys": [
+            "warn"
+          ],
+          "no-multi-spaces": [
+            "warn"
+          ],
+          "brace-style": [
+            "warn"
+          ],
+          "spaced-comment": [
+            "warn"
+          ],
+          "space-before-blocks": [
+            "warn"
+          ],
+          "object-curly-newline": [
+            "warn"
+          ],
+          "object-curly-spacing": [
+            "warn"
+          ],
+          "object-shorthand": [
+            "warn"
+          ],
+          "lines-between-class-members": [
+            "warn"
+          ],
+          "key-spacing": [
+            "warn"
+          ],
+          "arrow-spacing": [
+            "warn"
+          ],
+          "comma-spacing": [
+            "warn"
+          ],
+          "no-whitespace-before-property": [
+            "warn"
+          ],
+          "comma-dangle": [
+            "warn"
+          ],
+          "padded-blocks": [
+            "warn"
+          ],
+          "no-multiple-empty-lines": [
+            "warn"
+          ],
+          "react/jsx-indent": [
+            "warn"
+          ],
+          "react/jsx-indent-props": [
+            "warn"
+          ],
+          "react/jsx-equals-spacing": [
+            "warn"
+          ],
+          "react/jsx-curly-spacing": [
+            "warn"
+          ],
+          "react/jsx-tag-spacing": [
+            "warn"
+          ],
+          "react/jsx-first-prop-new-line": [
+            "warn"
+          ],
+          "react/jsx-closing-tag-location": [
+            "warn"
+          ],
+          "react/jsx-closing-bracket-location": [
+            "warn"
+          ],
+          "react/jsx-props-no-multi-spaces": [
+            "warn"
+          ],
+          "react/jsx-one-expression-per-line": [
+            "warn"
+          ],
+          "react/jsx-max-props-per-line": [
+            "warn"
+          ],
+          "semi": [
+            "warn"
+          ],
+          "no-trailing-spaces": [
+            "warn"
+          ]
+          
+
+    },
+    "overrides": [
+        {
+          "files": ["*.jsx", "*.js"]
+        }
+    ],
+    "parser": "babel-eslint"
+
+}
