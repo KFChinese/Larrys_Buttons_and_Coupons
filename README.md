@@ -4,6 +4,9 @@
 
 Welcome To Larry's Buttons & Coupons! 
 
+## Purpose of this Application
+This Expo.io Application was a four Year anniversary gift for my significant other, and is also my [CST338](https://catalog.csumb.edu/preview_course_nopop.php?catoid=1&coid=439) course at CSU Monterey Bay.
+
 # This Application is Built With 
 ![Expo](https://github.com/expo/expo/raw/master/style/header.png)
   
